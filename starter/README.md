@@ -1,4 +1,4 @@
-# BLACKHOLE.sol - GIGANTIC BLACK HOLE NFT Contract
+# Project - BLACKHOLE.sol - GIGANTIC BLACK HOLE NFT Contract
 
 This is the README.md file for the "BLACKHOLE.sol" smart contract, which implements the creation and management of GIGANTIC BLACK HOLE Non-Fungible Tokens (NFTs) on the Ethereum blockchain.
 
